@@ -15,7 +15,7 @@ public class GitActionsServiceApplication {
 
 	@GetMapping("/action")
 	public String getActions(){
-		return "Go Actions Go....Go";
+		return "Go Actions Go....Go..GO";
 	}
 }
 
